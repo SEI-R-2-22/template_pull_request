@@ -11,7 +11,7 @@ Group 1 - John Doe
 ```markdown
 ## Comfortability
   1-5
-  
+
   1. Struggling with material
   3. Can complete it, but don't fully understand it.
   5. Fully understand today's material
@@ -26,5 +26,6 @@ Group 1 - John Doe
 ## Additional Comments
 Let us know how you're feeling about the content or any questions that you may still have. If you had trouble with this homework, let us know what you had trouble with. (Be as specific as possible!)
 ```
+**Be sure to copy the URL for the pull request to submit as a link in Google Classroom.**
 
 **If your pull request does not follow this format, it will not be graded.**
