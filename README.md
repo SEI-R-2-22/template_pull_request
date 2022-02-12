@@ -9,23 +9,24 @@ Group 1 - John Doe
 # Pull Request Comment Format
 
 ```markdown
-## Comfortability
+## Comprehension
   1-5
 
-  1. Struggling with material
-  3. Can complete it, but don't fully understand it.
-  5. Fully understand today's material
+  1. I am struggling with this deliverable
+  3. I can complete this deliverable, but don't fully understand it
+  5. I fully understand today's deliverable
 
 ## Completion
   1-5
 
-  1. I only forked it
-  3. Completed all mvp tasks
-  5. Completed all bonuses
+  1. I have not met the requirements for this deliverable
+  3. I have met all minimum requirements for this deliverable
+  5. I have met all requirements + any bonuses for this deliverable
 
 ## Additional Comments
 Let us know how you're feeling about the content or any questions that you may still have. If you had trouble with this homework, let us know what you had trouble with. (Be as specific as possible!)
 ```
+
 **Be sure to copy the URL for the pull request to submit as a link in Google Classroom.**
 
 **If your pull request does not follow this format, it will not be graded.**
