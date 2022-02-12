@@ -1,12 +1,20 @@
+### In order to make it easier for your IAs to grade assignments, please follow this template closely, particularly in how you title your Pull Request. These are ***requirements***.
+
 # Pull Request Title
-- Your Group Number - First and Last Name
-```markdown
+
+Your Group Number - First and Last Name
+
 Like this...
 
+```markdown
 Group 1 - John Doe
 ```
 
 # Pull Request Comment Format
+
+Give a **1-5** rating in each of these categories to let us know how you are feeling on the material.
+
+You can copy and paste the template below to use in your pull request submissions, then edit it to reflect your ratings.
 
 ```markdown
 ## Comprehension
